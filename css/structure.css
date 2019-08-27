@@ -1,0 +1,39 @@
+*
+{
+	margin				:	0;
+	padding				:	0;
+}
+
+div#logo_area
+{
+	background-image	:	url("../img/header-bg.png");
+	background-repeat	:	repeat-x;
+	width				:	100%;
+}
+
+
+div#logo_area div.container
+{
+	align-items			:	center;
+	display				:	flex;
+	flex-direction		:	row;
+	width				:	80%;
+	margin				:	0 auto;
+	padding				:	0;
+}
+
+div#logo_area div.container img
+{
+	padding-right		:	25%;
+}
+
+div#logo_area div.container span
+{
+	padding-left		:	25%;
+}
+
+
+header
+{
+	width				:	100%;
+}
