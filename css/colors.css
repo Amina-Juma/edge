@@ -1,0 +1,23 @@
+body#error_404
+{
+  background-color		:	#0a1821;
+  color					:	#fff;
+}
+
+body#error_404 div.notfound-copy menu#error_search_menu a 
+{
+	border-bottom-color	:	#fff;
+	 color				:	#fff;
+}
+
+div#logo_area
+{
+	background-image	:	linear-gradient(#fff, #ececec);
+}
+
+div.notfound-copy input[type=text]
+{
+	color				:	#fff;
+	background-color	:	#0a1821;
+	border-bottom-color	:	#ccc; 
+}
