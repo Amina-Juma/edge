@@ -1,0 +1,17 @@
+@font-face
+{
+	font-family			:	segoeui;
+	src					:	url(../fonts/segoeui.ttf);
+}
+
+html
+{
+	font-family			:	segoeui;
+	font-size			:	12px;
+	letter-spacing		:	1px;
+}
+
+#header_menu
+{
+	font-size			:	1.5em;
+}
